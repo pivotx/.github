@@ -14,3 +14,7 @@ The following main PivotX repositories are available:
 ### Docmentation
 
 Visit the [PivotX-book](https://github.com/pivotx/PivotX-book) repository. 
+
+### Utils and more
+
+* [PivotX-tools](https://github.com/pivotx/PivotX-tools)
