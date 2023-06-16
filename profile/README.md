@@ -9,6 +9,7 @@ There will be no new features for PivotX, **it's in maintenance mode**, but we t
 The following main PivotX repositories are available:
 * [PivotX](https://github.com/pivotx/PivotX) - the actual software with the admin interface and public weblog.
 * [PivotX-extensions](https://github.com/pivotx/PivotX-extensions) - extensions to the PivotX core adding new functionality. 
+* [PivotX-themes](https://github.com/pivotx/PivotX-themes) - themes. 
 * [PivotX-translations](https://github.com/pivotx/PivotX-translations) - translations for more than 30 languages.
 
 ### Docmentation
